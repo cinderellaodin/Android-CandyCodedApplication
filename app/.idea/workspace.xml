@@ -46,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="305">
+              <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -110,9 +110,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="581" />
+    <option name="x" value="527" />
     <option name="y" value="27" />
-    <option name="width" value="780" />
+    <option name="width" value="834" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -352,12 +352,15 @@
     <history-entry file="_2_StartTheGoogleMapsActivity - 2019.10.30 at 10h 21m 55s.xml">
       <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.10.30 at 10h 25m 52s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="549" y="27" width="812" height="735" extended-state="0" />
+    <frame x="527" y="27" width="834" height="735" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22454308" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21827412" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -435,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="305">
+          <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
         </state>
       </provider>
     </entry>
