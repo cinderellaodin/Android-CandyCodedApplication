@@ -33,7 +33,7 @@ public class InfoActivity extends AppCompatActivity {
         Uri addressuri = Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
 
             Intent mapIntent = new Intent(Intent.ACTION_VIEW, addressuri);
-
+            mapIntent.setPackage("com.google.android.apps.maps");
         }
 
 
